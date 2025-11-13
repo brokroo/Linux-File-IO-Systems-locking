@@ -72,7 +72,7 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 
-![Alt text](os_exp7_1.png)
+<img width="682" height="106" alt="image" src="https://github.com/user-attachments/assets/763f7997-7178-495c-a286-b5e3442fa375" />
 
 ## 2.To Write a C program that illustrates files locking
 
